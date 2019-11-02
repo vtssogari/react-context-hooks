@@ -27,7 +27,6 @@ npm install --save-dev @types/express @types/fs-extra @types/shelljs @types/dote
 
 |Module  |	Description|
 | ------------- |:-------------:|
-
 |ts-node |	Use to run TypeScript files directly.|
 |shelljs |	Use to execute shell commands such as to copy files and remove directories.|
 |fs-extra|	A module that extends the Node.js file system (fs) module with features such as reading and writing JSON files.|
